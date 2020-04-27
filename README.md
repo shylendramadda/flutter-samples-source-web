@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+**Flutter Samples**
 
-You can use the [editor on GitHub](https://github.com/shylendramadda/FlutterSamplesWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+In this repository you can find the flutter basic samples along with source code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Why Flutter
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Build 3 apps with one code.
 
-```markdown
-Syntax highlighted code block
+1. Fast Development
+2. Expressive and Flexible UI
+3. Native Performance
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+## Clone a repository
 
-1. Numbered
-2. List
+Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
 
-**Bold** and _Italic_ and `Code` text
+1. You’ll see the clone button under the **Source** heading. Click that button.
+2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
+3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
+4. Open the directory you just created to see your repository’s files.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shylendramadda/FlutterSamplesWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
