@@ -1,6 +1,6 @@
 {
-    "name": "FlutterSamples",
-    "short_name": "FlutterSamples",
+    "name": "flutter_samples",
+    "short_name": "flutter_samples",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
